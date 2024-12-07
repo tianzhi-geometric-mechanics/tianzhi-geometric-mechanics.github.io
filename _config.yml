@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tianzhi Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tianzhi Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Singapore & Beijing"
+  employer         : "Peking University (PKU) & Nanyang Technological University (NTU)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tlee@stu.pku.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
